@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![liu-xiaotian's github stats](https://github-readme-stats.vercel.app/api?username=liu-xiaotian&show_icons=true&theme=radical)](https://github.com/anuraghazray/github-readme-stats)
+[![liu-xiaotian's github stats](https://github-readme-stats.vercel.app/api?username=liu-xiaotian)](https://github.com/anuraghazray/github-readme-stats)
 
 
