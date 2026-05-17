@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning database, AI,Chrome plug -in development.
 - 📫 How to reach me? Email: prime_xiaotian@foxmail.com
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=liu-xiaotian" /> </div>
 
 <!--
 **liu-xiaotian/liu-xiaotian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
