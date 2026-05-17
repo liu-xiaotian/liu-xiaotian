@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![liu-xiaotian's github stats](https://github-readme-stats.vercel.app/api?username=liu-xiaotian)](https://github.com/anuraghazray/github-readme-stats)
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
 
