@@ -1,4 +1,11 @@
 ## Hi there 👋
+<!-- 个人简介 -->
+- 👋 Hi, I’m xiaotian
+- 👀 I ’m interest in JavaScript, server development, database, computer network, operating system, AI, etc.
+- 🌱 I’m currently learning database, AI,Chrome plug -in development.
+- 📫 How to reach me? Email: prime_xiaotian@foxmail.com
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
 <!--
 **liu-xiaotian/liu-xiaotian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
 
